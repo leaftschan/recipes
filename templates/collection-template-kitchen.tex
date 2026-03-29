@@ -1,0 +1,80 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=1.6cm]{geometry}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{microtype}
+\usepackage{parskip}
+
+\setmainfont{TeX Gyre Heros}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{Latin Modern Mono}
+
+\definecolor{TitleColor}{HTML}{1D3557}
+\definecolor{AccentColor}{HTML}{457B9D}
+\definecolor{RuleColor}{HTML}{A8DADC}
+
+\setstretch{1.03}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+
+\titleformat{\section}
+  {\Large\bfseries\color{TitleColor}}
+  {}{0em}{}
+\titleformat{\subsection}
+  {\large\bfseries\color{AccentColor}}
+  {}{0em}{}
+
+\titlespacing*{\section}{0pt}{1.3em}{0.35em}
+\titlespacing*{\subsection}{0pt}{0.9em}{0.25em}
+
+\setlist[itemize]{leftmargin=1.3em,itemsep=0.12em,topsep=0.12em}
+\setlist[enumerate]{leftmargin=1.45em,itemsep=0.16em,topsep=0.14em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsf{Recipe Collection - Kitchen Mode}}
+\fancyhead[R]{\textsf{\nouppercase{\leftmark}}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.35pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{RuleColor}\leaders\hrule height \headrulewidth\hfill}}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=AccentColor,
+  urlcolor=AccentColor,
+  pdftitle={Recipe Collection - Kitchen Mode}
+}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+$if(title)$
+{\Huge\bfseries\color{TitleColor}$title$\par}
+\vspace{0.35em}
+$endif$
+
+$if(subtitle)$
+{\large\color{AccentColor}$subtitle$\par}
+\vspace{0.5em}
+$endif$
+
+$if(date)$
+{\small$date$\par}
+\vspace{0.5em}
+$endif$
+
+\tableofcontents
+\newpage
+
+$body$
+
+\end{document}
