@@ -49,8 +49,3 @@ Swiss-style sweet fried bread slices served with homemade applesauce.
 6. Whisk eggs with about 5 dl milk.
 7. Dip bread slices in egg mixture and fry until golden.
 8. Serve with cinnamon sugar and applesauce.
-
-## Notes
-
-- Great use for stale bread.
-- Keep fried slices warm in low oven while frying in batches.

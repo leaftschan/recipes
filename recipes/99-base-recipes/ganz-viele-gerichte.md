@@ -34,8 +34,3 @@ Candidate recipes identified in this import include:
 - Bananenbrot
 - Couscous-Salat
 - Flammkuchen
-
-## Notes
-
-- Keep this file only as migration reference until all sub-recipes are verified.
-- Avoid editing this as a single recipe.

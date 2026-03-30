@@ -47,8 +47,3 @@ Roasted pointed peppers filled with spiced rice, vegetables, and feta.
 8. Halve and deseed pointed peppers, oil lightly, place on a tray.
 9. Fill peppers with rice mixture and top with feta.
 10. Bake at least 40 minutes, ideally about 1 hour.
-
-## Notes
-
-- Quantities are still missing in the source and should be added during final review.
-- This draft keeps the original flavor profile from the DOCX note.

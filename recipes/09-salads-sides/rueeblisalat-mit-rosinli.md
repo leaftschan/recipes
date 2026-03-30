@@ -40,8 +40,3 @@ Carrot salad with curry, raisins, toasted pine nuts, and parsley.
 3. Mix dressing from apple vinegar, olive oil, honey, and curry powder.
 4. Toss carrots with dressing, raisins, pine nuts, parsley, and salt.
 5. Let salad rest before serving.
-
-## Notes
-
-- Resting time improves flavor and softens the carrots slightly.
-- A squeeze of lemon can be added for more acidity.

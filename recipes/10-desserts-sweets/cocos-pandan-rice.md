@@ -38,8 +38,3 @@ Fragrant coconut pandan rice with light sweetness.
 4. Reduce heat to minimum and cook about 10 minutes.
 5. Turn off heat and let rice rest covered.
 6. Remove pandan leaves and fluff before serving.
-
-## Notes
-
-- This can rest for a while after cooking.
-- Serve as dessert base or with fruit.

@@ -39,8 +39,3 @@ Non-alcoholic mulled fruit drink with warm winter spices.
 2. Combine all ingredients in a pot.
 3. Heat gently until steaming, do not boil hard.
 4. Let steep for a few minutes before serving.
-
-## Notes
-
-- Sweetness varies by juice brand; adjust if needed.
-- Keep warm on lowest heat for serving.

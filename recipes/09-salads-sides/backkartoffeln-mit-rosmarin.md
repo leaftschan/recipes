@@ -36,8 +36,3 @@ Crispy oven-roasted potatoes with rosemary and salt.
 4. Strip rosemary leaves and mix in.
 5. Spread on a baking-paper-lined tray.
 6. Roast about 40 minutes until crisp and browned.
-
-## Notes
-
-- Turn once halfway for more even browning.
-- Works as side for meat, fish, or mezze plates.

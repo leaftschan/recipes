@@ -41,8 +41,3 @@ Classic potato salad with mustard-vinegar dressing and chives.
 4. Mix dressing with strong bouillon, potato water, olive oil, mustard, vinegar, and pepper.
 5. Pour dressing over warm potatoes and let soak.
 6. Finish with chives before serving.
-
-## Notes
-
-- This salad improves after resting.
-- Adjust acidity with vinegar and bouillon balance.

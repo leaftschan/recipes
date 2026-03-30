@@ -42,8 +42,3 @@ Warm flatbread meal with seasoned minced beef, herb yogurt, and tomato.
 5. Fill bread with minced beef.
 6. Add yogurt sauce and tomato slices.
 7. Serve with arganiok or sriracha if desired.
-
-## Notes
-
-- Add cucumber or pickled onions for extra freshness.
-- This works well as quick dinner or sharing platter.

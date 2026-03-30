@@ -20,14 +20,76 @@
 \definecolor{AccentColor}{HTML}{2D6A4F}
 \definecolor{RuleColor}{HTML}{95D5B2}
 
-\titleformat{\section}
-  {\Large\bfseries\color{TitleColor}}
-  {}{0em}{}
-\titleformat{\subsection}
-  {\large\bfseries\color{AccentColor}}
-  {}{0em}{}
+\definecolor{CatA}{HTML}{D62828}
+\definecolor{CatB}{HTML}{F77F00}
+\definecolor{CatC}{HTML}{FCBF49}
+\definecolor{CatD}{HTML}{2A9D8F}
+\definecolor{CatE}{HTML}{118AB2}
+\definecolor{CatF}{HTML}{4361EE}
+\definecolor{CatG}{HTML}{8338EC}
+\definecolor{CatH}{HTML}{3A86FF}
+\definecolor{CatI}{HTML}{06D6A0}
+\definecolor{CatJ}{HTML}{EF476F}
+\definecolor{CatK}{HTML}{8D6E63}
+\definecolor{CatL}{HTML}{0096C7}
+\definecolor{CatM}{HTML}{6A994E}
 
-\titlespacing*{\section}{0pt}{2.0em}{0.6em}
+\colorlet{CategoryMain}{TitleColor}
+\colorlet{SprinkleOne}{AccentColor}
+\colorlet{SprinkleTwo}{RuleColor}
+
+\newcommand{\SetCategoryPalette}{%
+  \ifcase\value{section}\relax
+    \colorlet{CategoryMain}{TitleColor}\colorlet{SprinkleOne}{AccentColor}\colorlet{SprinkleTwo}{RuleColor}%
+  \or\colorlet{CategoryMain}{CatJ}\colorlet{SprinkleOne}{CatC}\colorlet{SprinkleTwo}{CatA}% % Starters and Mezze
+  \or\colorlet{CategoryMain}{CatB}\colorlet{SprinkleOne}{CatC}\colorlet{SprinkleTwo}{CatJ}% % Soups and Stews
+  \or\colorlet{CategoryMain}{CatM}\colorlet{SprinkleOne}{CatI}\colorlet{SprinkleTwo}{CatD}% % Main Vegetarian
+  \or\colorlet{CategoryMain}{CatL}\colorlet{SprinkleOne}{CatH}\colorlet{SprinkleTwo}{CatE}% % Main Fish and Seafood
+  \or\colorlet{CategoryMain}{CatA}\colorlet{SprinkleOne}{CatB}\colorlet{SprinkleTwo}{CatK}% % Main Meat
+  \or\colorlet{CategoryMain}{CatF}\colorlet{SprinkleOne}{CatC}\colorlet{SprinkleTwo}{CatH}% % Pasta Rice and Grains
+  \or\colorlet{CategoryMain}{CatG}\colorlet{SprinkleOne}{CatJ}\colorlet{SprinkleTwo}{CatB}% % Savory Bakes
+  \or\colorlet{CategoryMain}{CatK}\colorlet{SprinkleOne}{CatB}\colorlet{SprinkleTwo}{CatM}% % Bread and Dough Basics
+  \or\colorlet{CategoryMain}{CatI}\colorlet{SprinkleOne}{CatD}\colorlet{SprinkleTwo}{CatL}% % Salads and Sides
+  \or\colorlet{CategoryMain}{CatJ}\colorlet{SprinkleOne}{CatG}\colorlet{SprinkleTwo}{CatC}% % Desserts and Sweets
+  \or\colorlet{CategoryMain}{CatH}\colorlet{SprinkleOne}{CatI}\colorlet{SprinkleTwo}{CatC}% % Breakfast and Brunch
+  \or\colorlet{CategoryMain}{CatL}\colorlet{SprinkleOne}{CatF}\colorlet{SprinkleTwo}{CatI}% % Drinks
+  \or\colorlet{CategoryMain}{CatE}\colorlet{SprinkleOne}{CatK}\colorlet{SprinkleTwo}{CatM}% % Base Recipes
+  \else
+    \colorlet{CategoryMain}{TitleColor}\colorlet{SprinkleOne}{AccentColor}\colorlet{SprinkleTwo}{RuleColor}%
+  \fi
+}
+
+\newcommand{\CategoryDisplay}[1]{%
+  \SetCategoryPalette
+  \thispagestyle{empty}%
+  \vspace*{\fill}%
+  \begin{center}
+    {\Large\color{SprinkleOne}\textbullet\ \textbullet\ \textbullet\ \textbullet\ \textbullet\par}
+    \vspace{0.8em}
+    {\fontsize{32}{36}\selectfont\bfseries\color{CategoryMain}#1\par}
+    \vspace{0.8em}
+    {\Large\color{SprinkleTwo}\textasteriskcentered\ \textasteriskcentered\ \textasteriskcentered\ \textasteriskcentered\ \textasteriskcentered\par}
+  \end{center}
+  \vspace*{\fill}%
+}
+
+\newcommand{\RecipeTitleDisplay}[1]{%
+  {\large\color{SprinkleOne}\textbullet\ \textbullet\ \textbullet\ }{\Large\bfseries\color{CategoryMain}#1}{\large\color{SprinkleTwo}\ \textasteriskcentered\ \textasteriskcentered}\par
+  {\color{SprinkleTwo}\rule{\linewidth}{0.7pt}}\par
+}
+
+\titleformat{\section}
+  {\normalfont}
+  {}{0em}{\CategoryDisplay}
+\titleformat{\subsection}
+  [block]
+  {\SetCategoryPalette\Large\bfseries\color{CategoryMain}}
+  {\color{SprinkleOne}\textbullet\ \textbullet\ \textbullet}
+  {0.55em}
+  {\color{CategoryMain}}
+  [{\vspace{0.1em}{\color{SprinkleTwo}\titlerule[0.7pt]}}]
+
+\titlespacing*{\section}{0pt}{0pt}{0pt}
 \titlespacing*{\subsection}{0pt}{1.2em}{0.4em}
 
 \setlist[itemize]{leftmargin=1.6em,itemsep=0.25em,topsep=0.25em}
@@ -50,6 +112,8 @@
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setcounter{tocdepth}{2}
 
 \begin{document}
 

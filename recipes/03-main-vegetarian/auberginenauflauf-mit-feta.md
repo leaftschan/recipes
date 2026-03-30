@@ -50,8 +50,3 @@ Baked eggplant-potato casserole with tomato sauce, feta, and warm spices.
 7. Layer potato slices, salt lightly, then eggplant.
 8. Crumble feta between layers.
 9. Pour sauce over and bake at 200 C for about 45 minutes.
-
-## Notes
-
-- Source title mentions minced beef; decide final vegetarian or meat version.
-- Optional feta-bechamel topping is mentioned in source notes.

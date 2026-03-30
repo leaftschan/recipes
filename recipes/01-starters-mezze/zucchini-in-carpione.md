@@ -43,8 +43,3 @@ Sweet-sour marinated zucchini with onion, vinegar, and mint, served at room temp
 6. Layer zucchini and onion marinade in a shallow dish.
 7. Sprinkle with mint.
 8. Let marinate at least 30 minutes before serving.
-
-## Notes
-
-- Best after a few hours at room temperature or chilled overnight.
-- Serve with bread, grilled meat, or as part of a mezze spread.

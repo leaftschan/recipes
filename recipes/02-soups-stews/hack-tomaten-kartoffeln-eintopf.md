@@ -42,8 +42,3 @@ Simple hearty one-pot stew with minced meat, potatoes, tomato, and pepper.
 6. Add diced pepperoni/pepper.
 7. Simmer around 30 minutes until potatoes are tender.
 8. Season well with salt and pepper.
-
-## Notes
-
-- Add chili flakes for extra heat.
-- A spoon of tomato paste can deepen flavor.

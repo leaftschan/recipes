@@ -36,8 +36,3 @@ Pan-seared fennel glazed with honey and balsamic.
 3. Add honey and cook briefly.
 4. Deglaze with balsamic vinegar.
 5. Season with salt and cook until fennel is tender.
-
-## Notes
-
-- Serve warm as side dish.
-- Add black pepper or chili flakes for more contrast.

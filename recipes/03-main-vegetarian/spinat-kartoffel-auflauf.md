@@ -57,8 +57,3 @@ Layered potato and spinach casserole with feta bechamel.
 12. Cover with remaining potatoes and béchamel.
 13. Crumble remaining feta on top.
 14. Bake about 60 minutes.
-
-## Notes
-
-- Cover loosely with foil if top browns too quickly.
-- Rest 10 minutes before serving.

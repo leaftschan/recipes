@@ -41,8 +41,3 @@ Fresh couscous salad with cucumber, tomato, olives, feta, and mint.
 4. Mix all components together.
 5. Fold in chopped mint.
 6. Dress with lemon juice and olive oil.
-
-## Notes
-
-- Chill before serving for best flavor.
-- Adjust lemon and salt after feta is mixed in.

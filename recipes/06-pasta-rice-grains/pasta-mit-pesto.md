@@ -38,8 +38,3 @@ Cold pasta salad with pesto, mozzarella, cherry tomatoes, basil, and rocket.
 2. Mix pasta with pesto, pine nuts, and pressed garlic.
 3. Fold in mozzarella, cherry tomatoes, basil, and rocket.
 4. Serve chilled or at room temperature.
-
-## Notes
-
-- Add olive oil if the salad dries out after chilling.
-- Toast pine nuts first for more flavor.

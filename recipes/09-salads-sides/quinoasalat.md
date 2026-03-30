@@ -45,8 +45,3 @@ Colorful quinoa salad with mango, cucumber, tomato, greens, mint, and feta.
 6. Drain quinoa and let cool slightly.
 7. Mix quinoa with remaining ingredients.
 8. Dress with olive oil, apple vinegar, salt, and pepper.
-
-## Notes
-
-- Best after brief chilling.
-- Add lemon for more acidity if mango is very sweet.

@@ -59,8 +59,3 @@ Build-your-own wraps with spiced filling, sauteed vegetables, and fresh toppings
 6. Slice tomatoes and set out with corn, cream, sriracha, and chopped coriander.
 7. Warm wraps in oven.
 8. Assemble wraps at the table.
-
-## Notes
-
-- This recipe currently includes meat although the file is in vegetarian mains; recategorization may be useful.
-- You can swap minced meat for lentils or mushrooms.

@@ -43,8 +43,3 @@ Warm or room-temperature pepper salad with chickpeas, herbs, and lemon.
 6. Mix dressing from about 4 tbsp olive oil, lemon juice, garlic, salt, and a little bouillon if desired.
 7. Add chickpeas and herbs, then toss with peppers.
 8. Let salad sit so flavors can combine.
-
-## Notes
-
-- Best after resting for at least 20 to 30 minutes.
-- Works as mezze, side dish, or light lunch.

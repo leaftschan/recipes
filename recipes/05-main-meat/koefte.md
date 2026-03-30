@@ -49,8 +49,3 @@ Spiced grilled beef koefte with herbs and a long marination.
 6. Cover and marinate in fridge about 24 hours.
 7. Shape into about 20 rolls with wet hands.
 8. Brush lightly with oil and grill around 200 C for about 10 minutes.
-
-## Notes
-
-- Great with flatbread, yogurt dip, and salad.
-- Internal temperature should be safe before serving.

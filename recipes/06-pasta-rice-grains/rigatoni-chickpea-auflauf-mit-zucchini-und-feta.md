@@ -43,8 +43,3 @@ Oven-baked rigatoni with chickpeas, zucchini, tomato, and feta.
 6. Add chickpeas, then tomatoes, then rigatoni.
 7. Transfer to casserole dish and top with feta.
 8. Bake about 40 minutes.
-
-## Notes
-
-- Add extra tomato if you want a saucier bake.
-- A handful of herbs works well as finish.

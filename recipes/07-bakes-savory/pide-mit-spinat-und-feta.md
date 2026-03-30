@@ -40,8 +40,3 @@ Baked pide filled with spinach, feta, egg, and warm spices.
 4. Season with salt and pepper.
 5. Divide dough and fill to make about 6 to 8 pide.
 6. Bake about 30 minutes.
-
-## Notes
-
-- Seal edges well so filling stays in place.
-- Sesame or nigella seeds would work well on top.

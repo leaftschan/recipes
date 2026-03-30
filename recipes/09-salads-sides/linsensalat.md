@@ -42,8 +42,3 @@ Lentil salad with carrot, celery, vinegar, oil, and fresh herbs.
 5. Mix in carrot and celery.
 6. Add olive oil and vinegar.
 7. Add herbs and garlic if desired.
-
-## Notes
-
-- Best when slightly warm or after brief resting time.
-- Add lemon juice for extra brightness.

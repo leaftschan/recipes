@@ -54,8 +54,3 @@ Flexible Swiss fruit tart base with cream-egg custard and seasonal fruit.
 6. Mix eggs, cream, milk, cinnamon, and vanilla sugar.
 7. Pour custard over fruit and bake immediately.
 8. Bake about 35 minutes.
-
-## Notes
-
-- Works with many seasonal fruits.
-- Serve lukewarm with a little whipped cream if desired.

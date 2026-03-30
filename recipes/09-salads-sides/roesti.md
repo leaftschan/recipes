@@ -36,8 +36,3 @@ Pan-fried roesti made from fresh waxy potatoes, butter, and neutral oil.
 4. Fry on medium heat until golden underneath.
 5. Flip decisively and brown the other side.
 6. Salt before serving.
-
-## Notes
-
-- A well-heated pan helps the roesti hold together.
-- Serve as side or top with egg, cheese, or smoked fish.

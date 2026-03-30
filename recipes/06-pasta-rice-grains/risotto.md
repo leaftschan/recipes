@@ -41,8 +41,3 @@ Basic risotto with onion, chili, bouillon, parmesan, and optional add-ins.
 6. Stir regularly.
 7. Each time the liquid is absorbed, add more bouillon.
 8. When rice is cooked and creamy, remove from heat and stir in parmesan.
-
-## Notes
-
-- Texture should stay creamy, not dry.
-- Finish with butter if you want a richer result.

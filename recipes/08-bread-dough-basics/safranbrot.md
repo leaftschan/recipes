@@ -54,8 +54,3 @@ Soft saffron flatbread with sesame topping, with an optional savory yogurt sprea
 5. Optionally add a little sugar.
 6. Bake at 200 C for about 15 minutes.
 7. Optional variation: blend onion, savory, nigella, and yogurt and spread instead of egg-yolk-sesame topping.
-
-## Notes
-
-- Serve warm.
-- Dough should be soft but not sticky before final proof.

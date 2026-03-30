@@ -32,8 +32,3 @@ Simple rice side dish finished with caraway.
 1. Cook rice using about double the amount of water.
 2. Drain if needed.
 3. Mix in caraway seeds while rice is still hot.
-
-## Notes
-
-- Toast caraway briefly beforehand for deeper flavor.
-- Pairs well with stews and grilled meat.

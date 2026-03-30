@@ -1,4 +1,4 @@
----
+﻿---
 title: Miso Auberginen
 slug: miso-auberginen
 category: main-vegetarian
@@ -50,7 +50,3 @@ Roasted aubergines glazed with a sweet-salty miso sauce.
 4. Mix all glaze ingredients until smooth.
 5. Brush glaze onto aubergines and roast for 8 to 12 more minutes.
 6. Finish with spring onions and sesame.
-
-## Notes
-
-- This file is already structured and in active recipe format.

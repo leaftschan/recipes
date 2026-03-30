@@ -39,8 +39,3 @@ Tomato tuna salad with coriander, balsamic, and olive oil.
 4. Season with pepper and a little bouillon powder.
 5. Dress with olive oil and balsamic vinegar.
 6. Mix in finely chopped coriander.
-
-## Notes
-
-- Serve chilled or at room temperature.
-- Taste before adding salt because bouillon and tuna can already be salty.

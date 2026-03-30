@@ -40,8 +40,3 @@ Basic enriched yeast dough for braid bread and other baked goods.
 6. Let rise 1 to 2 hours in a warm place.
 7. Shape braid (or desired form) and let rise again.
 8. Bake at 200 C for about 35 minutes.
-
-## Notes
-
-- For glossy braid, brush with egg wash before baking.
-- Bake time varies by shape and size.

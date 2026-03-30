@@ -52,8 +52,3 @@ A fragrant lamb ragout with quince, dried plums, cardamom, and chickpeas.
 7. Simmer covered over medium-low heat until quince is soft.
 8. Continue on very low heat about 10 minutes for color and flavor.
 9. Serve with basmati rice.
-
-## Notes
-
-- Add a little water during braising if needed.
-- Balance sweetness/acidity at the end with sugar and lemon.

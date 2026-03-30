@@ -41,8 +41,3 @@ Creamy pasta bake with ham cubes, herbs, sbrinz, and egg-cream custard.
 5. Whisk milk, cream, eggs, salt, and pepper.
 6. Pour custard over pasta mixture.
 7. Bake about 50 minutes in lower half of oven.
-
-## Notes
-
-- Let rest a few minutes before slicing.
-- Can be adapted with vegetables instead of ham.

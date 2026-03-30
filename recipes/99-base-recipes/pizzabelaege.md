@@ -28,8 +28,3 @@ Reference list of pizza topping combinations.
 3. Mushrooms, optional ham, rocket.
 4. Pepperoni, onion, salami.
 5. Margherita.
-
-## Notes
-
-- Use this as a companion to the base pizza recipe.
-- Add items after baking where freshness matters, for example rocket or ricotta.

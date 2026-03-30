@@ -54,8 +54,3 @@ Savory spinach muffins baked on crisp potato roesti bases.
 8. Fold in spinach mixture.
 9. Fill muffin cups over prebaked roesti bases.
 10. Bake another 15 to 18 minutes until set and golden.
-
-## Notes
-
-- Serve warm with salad or yogurt dip.
-- These reheat well and work for meal prep.

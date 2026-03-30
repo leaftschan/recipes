@@ -53,8 +53,3 @@ Poached chicken slices with creamy tuna-caper sauce, best after marinating.
 7. Loosen sauce with a little poaching broth until creamy.
 8. Arrange chicken slices in a shallow dish, cover with sauce, and top with capers.
 9. Chill and let flavors combine before serving.
-
-## Notes
-
-- This recipe tastes better after resting than immediately after assembly.
-- Keep all raw-egg handling chilled and hygienic.

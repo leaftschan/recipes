@@ -38,8 +38,3 @@ Crisp flammkuchen with creme fraiche, onion, and bacon.
 4. Halve onions, slice thinly, separate layers, and scatter on top.
 5. Add bacon cubes.
 6. Bake about 10 minutes until crisp.
-
-## Notes
-
-- Bake one tray at a time for best browning.
-- Vegetarian option: replace bacon with thin mushrooms and smoked paprika.

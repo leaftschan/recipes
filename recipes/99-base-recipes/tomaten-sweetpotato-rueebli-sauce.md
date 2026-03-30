@@ -41,8 +41,3 @@ Tomato sauce with sweet potato, carrot, onion, and garlic.
 5. Simmer until vegetables are fully soft.
 6. Season with salt and pepper.
 7. Add coriander to finish if desired.
-
-## Notes
-
-- Pairs well with cumin rice.
-- Blend smooth for a creamier sauce.

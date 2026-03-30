@@ -45,8 +45,3 @@ Thin-crust tray pizza with tomato sauce, cheese, and assorted toppings.
 6. Bake about 10 minutes.
 7. Add cheese and continue baking until melted.
 8. Finish with fresh basil.
-
-## Notes
-
-- Bake hotter and faster if using a pizza stone or steel.
-- Use [recipes/99-base-recipes/pizzabelaege.md](recipes/99-base-recipes/pizzabelaege.md) for topping ideas.

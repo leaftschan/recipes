@@ -36,8 +36,3 @@ Creamy cucumber salad with yogurt, dill, and apple vinegar.
 1. Prepare cucumber and slice thinly.
 2. Mix cucumber with vinegar, oil, yogurt, dill, salt, and pepper.
 3. Let rest briefly before serving.
-
-## Notes
-
-- For a lighter version, reduce yogurt and add more vinegar.
-- Best served chilled.

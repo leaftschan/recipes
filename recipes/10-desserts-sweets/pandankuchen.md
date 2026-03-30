@@ -49,8 +49,3 @@ Soft pandan-coconut loaf cake with whipped egg whites for lift.
 6. Fold egg whites into batter gently.
 7. Transfer to greased loaf pan.
 8. Bake about 45 minutes.
-
-## Notes
-
-- Cool before slicing so crumb sets properly.
-- Color and aroma depend on pandan intensity.

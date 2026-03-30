@@ -41,8 +41,3 @@ Vegetarian quiche with leek, onion, and cherry tomatoes.
 6. Whisk eggs with creme fraiche, season well, and pour over vegetables.
 7. Halve cherry tomatoes and press cut-side up into the custard.
 8. Bake around 35 minutes until set and golden.
-
-## Notes
-
-- Serve with a green salad.
-- Works hot, warm, or room temperature.

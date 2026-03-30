@@ -59,8 +59,3 @@ Baked eggplant and potato casserole with tangy tamarind-tomato sauce and feta.
 10. Top with feta.
 11. Bake 30 to 35 minutes.
 12. Finish with parsley.
-
-## Notes
-
-- Works well with plain yogurt and rice.
-- If tamarind is very concentrated, start with less and adjust.

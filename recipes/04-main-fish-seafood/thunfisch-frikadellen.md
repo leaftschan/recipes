@@ -1,4 +1,4 @@
----
+﻿---
 title: Thunfisch Frikadellen
 slug: thunfisch-frikadellen
 category: main-fish-seafood
@@ -44,7 +44,3 @@ Pan-fried tuna patties with herbs and lemon.
 3. Shape into 8 small patties.
 4. Fry in hot oil for 3 to 4 minutes per side until golden.
 5. Serve with salad, yogurt dip, or lemon wedges.
-
-## Notes
-
-- This file is already structured and in active recipe format.

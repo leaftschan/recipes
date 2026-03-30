@@ -38,8 +38,3 @@ Basic crepe-style omelette batter for thin Swiss omelettes.
 4. Whisk until smooth and lump-free.
 5. Let batter rest at least 30 minutes.
 6. Cook thin portions in a nonstick pan until golden.
-
-## Notes
-
-- Works for sweet or savory fillings.
-- Adjust batter with a little extra water if it thickens while resting.

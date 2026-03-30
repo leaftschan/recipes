@@ -37,8 +37,3 @@ Pasta salad with pesto, cucumber, cherry tomatoes, mozzarella, and pine nuts.
 3. Let pasta cool.
 4. Add cucumber, tomatoes, and mozzarella.
 5. Toss and chill if desired.
-
-## Notes
-
-- Season only after adding pesto, since it can already be salty.
-- Works well as picnic salad.

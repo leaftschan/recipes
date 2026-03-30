@@ -1,4 +1,4 @@
----
+﻿---
 title: Bananenbrot
 slug: bananenbrot
 category: desserts-sweets
@@ -47,7 +47,3 @@ Soft banana loaf that works as breakfast, snack, or dessert.
 4. Add optional ingredients.
 5. Bake for 50 to 60 minutes until a skewer comes out mostly clean.
 6. Cool before slicing.
-
-## Notes
-
-- This file is already structured and in active recipe format.
