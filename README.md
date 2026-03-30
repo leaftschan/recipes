@@ -203,7 +203,3 @@ Then regenerate full collection:
 ### 6) Update Collection Grouping
 
 `collection-index.md` is generated from recipe files and categories. Regenerate it if you run the finalize helper script, or maintain it manually as your planning board.
-
-## Migration Status
-
-Migration is complete and tracked in `migration-status.csv`.
